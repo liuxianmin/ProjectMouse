@@ -14,7 +14,7 @@ class myclass{
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "xianmin hit" << std::endl;
+    std::cout << "xianmin" << std::endl;
     std::cout << "Hello, World!\n";
     return 0;
 }
